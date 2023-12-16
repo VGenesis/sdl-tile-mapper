@@ -1,8 +1,10 @@
 #include <SDL2/SDL.h>
+#include <iostream.h>
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <unordered_map>
+#include <bitset>
 
 #define WINDOW_WIDTH 640
 #define WINDOW_HEIGHT 480
